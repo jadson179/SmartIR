@@ -794,6 +794,8 @@ Contributing to your own code files is welcome. However, we do not accept incomp
 | ---------------------------------- | ---------------------- | ---------- |
 | [2800](../codes/climate/2800.json) | HVQI18B2IA             | Broadlink  |
 | [2801](../codes/climate/2801.json) | HVQI12B2FB             | Broadlink  |
+| [2802](../codes/climate/2802.json) | Echo Plus 12000 BTUs   | Broadlink  |
+
 
 #### Pearl
 | Code                               | Supported Models       | Controller |
