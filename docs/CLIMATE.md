@@ -549,6 +549,7 @@ Contributing to your own code files is welcome. However, we do not accept incomp
 |------------------------------------|-------------------| ---------- |
 | [1900](../codes/climate/1900.json) | TAC-12CHSD/XA21I  | Broadlink  |
 | [1901](../codes/climate/1901.json) | TAC-12CHSD/XA71IN | Broadlink  |
+| [1902](../codes/climate/1902.json) | TAC-18CHSA1       | MQTT       |
 
 #### Aokesi
 | Code                               | Supported Models | Controller |
